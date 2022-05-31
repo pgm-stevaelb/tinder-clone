@@ -18,10 +18,11 @@ Install node modules
 ```node
 npm install
 ```
-Run the app and enjoy
+Run the app
 ```node
 npm run dev
 ```
+Now surf in your browser to http://localhost:8080 and enjoy
 
 ## License
 MIT
