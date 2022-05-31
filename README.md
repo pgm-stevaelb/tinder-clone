@@ -12,12 +12,16 @@ Project created for Artevelde. The app is a Tinder clone and has the capabilitie
 ## Run the app
 Make sure to enter the server path (/tinder-clone/server/)
 ```node
-  cd server/
-  ```
+cd server/
+```
 Install node modules
-  npm install
+```node
+npm install
+```
 Run the app and enjoy
-  npm run dev
+```node
+npm run dev
+```
 
 Template Final Project PGM-2 2021-22 | Associate Degree in Computer Programming | Artevelde University of Applied Sciences
 Project Author: Steven Aelbrecht
