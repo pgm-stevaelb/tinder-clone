@@ -3518,5 +3518,11 @@
     "friendId": "b715f59c-3030-423f-963c-c6e85d10b8f1",
     "rating": "like",
     "createdAt": 1643267803630
+  },
+  {
+    "userId": "365f5472-c192-4d19-9d82-030317098b53",
+    "friendId": "1f7d9031-726f-4878-9895-2bc06e8d8a26",
+    "rating": "like",
+    "createdAt": 1654009668467
   }
 ]

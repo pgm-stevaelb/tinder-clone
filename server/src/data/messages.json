@@ -7324,5 +7324,12 @@
     "message": "gfddfgfdsg\n",
     "id": "aa155071-1c87-46a4-bab9-ca4ecbef2c79",
     "createdAt": 1653910818449
+  },
+  {
+    "senderId": "679e8f13-f384-43a1-bef0-40059e5657f2",
+    "receiverId": "365f5472-c192-4d19-9d82-030317098b53",
+    "message": "This is a new message",
+    "id": "f98f3a1b-59e1-47e1-b484-a6149cfffd32",
+    "createdAt": 1654009588182
   }
 ]
